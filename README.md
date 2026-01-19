@@ -21,3 +21,9 @@ This project was created as part of my portfolio to demonstrate my Power BI, dat
 - Clean data modeling (Fact & Dimension tables)
 - Interactive slicers and filters
 - Meaningful KPIs and visuals
+
+  📸 Dashboard Screenshots
+
+ Overall Dashboard
+![Overall Dashboard](Dashboard overview.png)
+
