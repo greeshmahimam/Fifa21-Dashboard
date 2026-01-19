@@ -22,8 +22,8 @@ This project was created as part of my portfolio to demonstrate my Power BI, dat
 - Interactive slicers and filters
 - Meaningful KPIs and visuals
 
- 📸 Dashboard Screenshots
+## 📸 Dashboard Screenshots
 
- Overall Dashboard
-![Overall Dashboard](./Dashboard overview.png)
+### Overall Dashboard
+![Overall Dashboard](./dashboard_overview.png)
 
