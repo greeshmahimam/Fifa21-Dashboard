@@ -27,3 +27,5 @@ This project was created as part of my portfolio to demonstrate my Power BI, dat
 ### Overall Dashboard
 ![Overall Dashboard](./dashboard_overview.png)
 
+### Player Analysis
+![Player Analysis](./best_player_analysis.png)
